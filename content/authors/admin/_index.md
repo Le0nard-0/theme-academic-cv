@@ -34,11 +34,11 @@ profiles:
     url: 'Zherun.Li@monash.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Le0nard-0
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar

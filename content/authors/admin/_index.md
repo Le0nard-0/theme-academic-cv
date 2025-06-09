@@ -1,5 +1,6 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: 李哲润
 
 # Name pronunciation (optional)
@@ -8,6 +9,16 @@ name_pronunciation:
 # Full name (for SEO)
 first_name: Zherun
 last_name: Li
+=======
+title: 吳健雄
+
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
+
+# Full name (for SEO)
+first_name: Shiung Wu
+last_name: Chien
+>>>>>>> b6358c09826d15030ebed54ca548f1e377270325
 
 # Status emoji
 status:
@@ -20,17 +31,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
+<<<<<<< HEAD
 role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Monash University
     url: https://www.monash.edu/
+=======
+role: Chief Scientist
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: OpenAI
+    url: https://openai.com/
+>>>>>>> b6358c09826d15030ebed54ca548f1e377270325
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
+<<<<<<< HEAD
     url: 'Zherun.Li@monash.edu'
     label: E-mail Me
   - icon: brands/x
@@ -39,6 +60,16 @@ profiles:
     url: 
   - icon: brands/github
     url: https://github.com/Le0nard-0
+=======
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+>>>>>>> b6358c09826d15030ebed54ca548f1e377270325
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar

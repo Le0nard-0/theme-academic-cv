@@ -10,8 +10,8 @@ first_name: Zherun
 last_name: Li
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,22 +33,11 @@ profiles:
   - icon: at-symbol
     url: 'Zherun.Li@monash.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://github.com/Le0nard-0
-  - icon: brands/instagram
-    url: https://github.com/Le0nard-0
   - icon: brands/github
     url: https://github.com/Le0nard-0
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Heterogeneous Microstructure
-  - Geometry Modelling
+  - Heterogeneous Microstructure Geometry Modelling
   - Additive Manufacturing
 
 education:
@@ -61,23 +50,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master Mechanical Engineering
+    institution: Shanghai Jiao Tong University
+    date_start: 2022-09-01
+    date_end: 2025-03-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.52/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Mechanical Engineering
+    institution: Dalian Martime University
+    date_start: 2018-09-01
+    date_end: 2022-06-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.72/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -143,11 +132,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Germany
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +172,4 @@ awards:
 
 ## About Me
 
-Zherun Li is currently a PhD student at Monash University, under the supervision of Prof. Yunlong Tang. His research interest is Heterogeneous Microstructure Design and Modelling
+Zherun Li graduated from Shanghai Jiao Tong University in 2025. He is about to attend his PhD program at Monash University under the supervision of Prof. Yunlong Tang. His research interest is Heterogeneous Microstructure Design and Modelling

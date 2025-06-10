@@ -139,7 +139,7 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2025-03-01'
     awarder: Shanghai Jiao Tong University
-     icon: SJTU
+    icon: SJTU
     summary: |
       My master disertation aims at breaking the efficiency bottleneck in the inspection of surfaces with various curvature using the five-axis swepp scanning measurement machine.
   - title: 'Best Presentation in CNCM'
